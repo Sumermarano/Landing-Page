@@ -122,3 +122,37 @@ a {
     font-weight: 700;
     margin-left: auto;
 }
+
+.action {
+    margin: 80px 240px;
+    padding: 40px 180px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    display: flex;
+}
+
+.action-main {
+    color: #F9FAF8;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.action-second {
+    color: #E5E7EB;
+}
+
+.action-button {
+    margin-left: auto;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    padding: 0px 32px;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    padding: 24px;
+    text-align: center;
+}
