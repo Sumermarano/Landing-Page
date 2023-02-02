@@ -72,3 +72,30 @@ a {
     border-style: none;
     margin-top: 8px;
 }
+
+.info-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+    padding: 48px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.info-square {
+    width: 150px;
+    text-align: center;
+}
+
+.square {
+    border: 3px solid #3882f6;
+    border-radius: 12px;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 8px;
+}
