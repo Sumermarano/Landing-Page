@@ -7,7 +7,7 @@ body {
     background-color: #1f2937;
     display: flex;
     align-items: center;
-    padding: 0 12px;
+    padding: 0 180px;
 }
 
 .logo {
@@ -27,4 +27,48 @@ a {
     text-decoration: none;
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 180px;
+}
+
+.placeholder {
+    background-color: gray;
+    color: #E5E7EB;
+    margin-left: auto;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text {
+    width: 500px;
+    height: 250px;
+}
+
+.hero-text-main {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.hero-text-second {
+    font-size: 20px;
+    color: #E5E7EB;
+}
+
+.hero-text-button {
+    background-color: #3882f6;
+    color: #E5E7EB;
+    padding: 6px 24px;
+    border-radius: 10px;
+    border-style: none;
+    margin-top: 8px;
 }
